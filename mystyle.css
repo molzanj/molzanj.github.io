@@ -11,3 +11,6 @@ p.colour{
 color:#0099FF;
 font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+body{
+  background-color: lightblue;
+}
