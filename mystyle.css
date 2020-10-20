@@ -14,3 +14,8 @@ font-family: "Comic Sans MS", "Comic Sans", cursive;
 body{
   background-color: lightblue;
 }
+h2{
+background-color:#255;
+color:#fff;
+font-size:3em;
+}
